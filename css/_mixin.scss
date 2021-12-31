@@ -1,0 +1,29 @@
+$goyumsov :#01B3A7;
+$qehvey-font:#8F8F8F;
+$hover:#50BA87;
+$tund:#162E44;
+$mirvari:#01B3A7;
+
+a {
+    display: block;
+    text-decoration: none;
+
+}
+
+ul {
+    list-style: none;
+
+}
+
+body{
+    transition: 0.2s ease;
+}
+@mixin h4 {
+    color: white;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .025em;
+    line-height: 1.2;
+}
